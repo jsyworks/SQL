@@ -1,3 +1,3 @@
 # SQL
 📝SQLD 공부 기록
-https://jungseungyeon.notion.site/16f161003df98062b9dcc569d529c40e?v=0bc1b4ce120843a5823b8ad90b72b812
+1-1. 데이터베이스 알아보기 https://jungseungyeon.notion.site/16f161003df980b290c4c41f9d53e693?pvs=4
