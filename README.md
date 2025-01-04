@@ -7,4 +7,4 @@
 |번외|Workbench github 연동|https://gini1031.tistory.com/4|
 |2-1|데이터베이스 모델링|https://jungseungyeon.notion.site/170161003df980a688c0fc6023991aca?pvs=4|
 |2-2|데이터베이스 시작부터 끝까지|https://jungseungyeon.notion.site/171161003df98075abcae208e1a7bf4f?pvs=4|
-|2-3|데이터베이스 객체|https://jungseungyeon.notion.site/171161003df98059930cf45b02f21e34?pvs=4|
+|2-3|데이터베이스 개체|https://jungseungyeon.notion.site/171161003df98059930cf45b02f21e34?pvs=4|
